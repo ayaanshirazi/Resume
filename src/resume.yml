@@ -1,33 +1,25 @@
 ---
 
 colors:
-  title: '#004586'
-  header: '#0066cc'
+  title: '#fb8500'
+  header: '#ffb703'
   background: '#dcecfc'
 
-name: Matthew Brown
+name: Ayaan Shirazi
 
 contact:
   github:
-    url: 'https://github.com/matthew-e-brown'
-    display: github.com/matthew-e-brown
+    url: 'https://github.com/ayaanshirazi'
+    display: github.com/ayaanshirazi
   email:
-    url: 'mailto:matthew.e.brown.17@gmail.com'
-    display: matthew.e.brown.17@gmail.com
+    url: 'mailto:a_shirazi@hotmail.com'
+    display: a_shirazi@hotmail.com
   linkedin:
-    url: 'https://www.linkedin.com/in/matthewebrown17/'
-    display: /in/matthewebrown17
+    url: 'https://www.linkedin.com/in/ayaan-shirazi-157b06153/'
+    display: /in/ayaanshirazi
   mobile:
-    url: 'tel:+16138498270'
-    display: +1 (613) 849-8270
-  stackoverflow:
-    url: 'https://stackoverflow.com/users/10549827/matthew-e-brown'
-    display: /matthew-e-brown
-  website:
-    url: 'https://matthew-brown.net'
-    display: matthew-brown.net
-    icon: 'fa-globe'
-    iconStyle: far
+    url: 'tel:+14168393903'
+    display: +1 (416) 839-3903
 
 sections:
   - header: Skills
@@ -38,80 +30,31 @@ sections:
             body: |-
               - Expert with HTML, CSS, and JavaScript
                 - Experienced with Flexbox and CSS Grid
-                - ECMAScript ES7 and newer
-              - Experienced with Vue (this resume is a PDF print of
-                [a Vue 2 app](https://github.com/matthew-e-brown/Resume)!)
               - Experienced with JavaScript for NodeJS/Server-side (ExpressJS)
               - Experienced with vanilla PHP
 
           - title: General
             body: |-
-              - Two most skilled languages are JavaScript and Python
+              - Most skilled language is JavaScript
               - Intermediate experience working with Python for scripting
-              - Experience with Bash/Shell scripting
-              - Moderately experienced with C and C#
+              - Moderately experienced with C++ and C#
               - Beginner experience and moderate familiarity with Java
-
-      - header: Software
-        entries:
-          - title: Linux, Git, GitHub
-            body: |-
-              - Experience Linux VMs/webservers (Ubuntu, CentOS 7, LAMP)
-              - Very comfortable on the command line, including with Git
-              - Experience working with GitHub for collaboration
-
-          - title: Other Software
-            body: |-
-              - Atlassian, Microsoft Office, and Creative Cloud suites
 
   - header: Working Experience
     subsections:
-      - header: Full-Time
+      - header: Internship
         entries:
-          - title: Fullstack Web Developer &mdash; International Institute for Environmental Studies (IIES)
+          - title: Fullstack Web Developer &mdash; Human Connection Economy Federation 4.0 (HCE 4.0)
             body: |-
-              Built the website for the 6 Annual IIES Science and Policy
-              Workshop, to be re-used for future years
-              ([iiesworkshops.com](https://iiesworkshops.com)). Worked with
-              vanilla PHP, vanilla JS, and Sass.
-              - October 2020 to January 2021
+              Built and maintained the website for HCE 4.0 and its subsidiaries, to be re-used for future years
+              ([hce4.com](https://www.hce4.com/)). Worked with HTML, CSS, and vanilla JS.
+              - August 2020 to November 2020
 
-          - title: Intern / Co-op &mdash; TD Wealth Technology Solutions
+          - title: Digital Marketer &mdash; ibis styles Hotel, Dubai
             body: |-
-              Tech support for Wealth Money Movement team. Worked primarily with
-              Splunk Enterprise for data monitoring and creating dashboards.
-              - September 2019 to December 2019
-
-          - title: Cybersecurity Rover &mdash; Trent University
-            body: |-
-              Working with Trent IT to improve cybersecurity measures for both
-              staff and students during the COVID-19 remote-learning transition.
-              - July 2020 to September 2020
-
-      - header: Part-Time
-        entries:
-          - title: Work-Study Position &mdash; Trent University
-            body: |-
-              Assitant to the lab demonstrator. TA-ing and creating lab content
-              for the *Web Application Development* (COIS-3420H) course.
-              - January 2020 to April 2020
-
-          - title: Course Content Creator &mdash; Trent University
-            body: |-
-              Created lab content for *Digital World* (COIS-1010H), introduced a
-              web-based format for Trent COIS labs.
-              - July 2019 to August 2019
-
-          - title: Course Marker &mdash; Trent University
-            body: |-
-              Marked for *Programming for Computer Systems* (COIS-1020H).
-              - January 2019 to April 2019
-
-          - title: Technology Sales Associate &mdash; Staples Canada
-            body: |-
-              Sold laptops, desktops, printers, tablets, and smartphones with
-              warranties, services, and accessories.
-              - August 2016 to August 2018
+             Tasked to make graphics for online layouts and design proposals. Handled the company's social media and online portfolio. 
+             Created Ad materials and help illustrate graphic posters to advertise special promotions. 
+              - May 2018 to August 2018
 
   - header: Education
     subsections:
@@ -119,13 +62,13 @@ sections:
         entries:
           - title: Trent University
             body: |-
-              B.Sc (Hon): Computer Science with Co-op &mdash; 86.28% average
-              - *Systems Programming* (COIS-3380H)
-                - C programming and bash scripting
+              B.Sc (Hon): Computer Science majoring in Software Engineering
+              - *Data Structure and Algorithms* (COIS-2020H)
+                - Arrays, Linked Lists, Hash Tables, Binary Heaps, and Binary Search Trees
               - *Web Application Development* (COIS-3420H)
                 - Backend, front-end, no-framework web-dev (full-stack)
-              - *Modelling and Simulation* (COIS-4470H)
-                - Discrete-event and Monte-Carlo simulations in Python
+              - *Software Specification and Development I & II* (COIS-3030 & COIS 3040)
+                - Software development paradigms and their usage, the importance of feasibility studies, requirements analysis, and specification
               - *Database Management* (COIS-3400H)
                 - RDBMS, SQL, query optimization, relational algebra
 
@@ -135,14 +78,6 @@ sections:
         entries:
           - title: __no-header__
             body: |-
-              **English** &mdash; Native language, full comprehension and
+              **English & Hindi** &mdash; Native language, full comprehension and
               speaking  
-              **French** &mdash; Good comprehension and speaking  
-              <!-- **Japanese** &mdash; Basic reading comprehension -->
-
-      - header: Awards
-        entries:
-          - title: D.E.L.F. / D.A.L.F. B1 Certified
-            body: |-
-              Officially bilingual, certified by the <span lang="fr">ministère
-              de l'Éducation et de la Jeunesse</span> in France.
+              **Arabic** &mdash; Good comprehension and speaking 
